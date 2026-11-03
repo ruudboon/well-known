@@ -1,3 +1,3 @@
-# tesla-key
+# well-known
 
-Public key for the Tesla Fleet API (virtual key) of tesla.tdtproductions.nl.
+Static `.well-known` files for tdtproductions.nl.
